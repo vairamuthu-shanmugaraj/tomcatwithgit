@@ -1,2 +1,2 @@
-FROM vairamuthushanmugaraj/Tomcat:jdk6Tomcat7
+FROM vairamuthushanmugaraj/Tomcat:jdk7Tomcat7
 RUN apt-get -y install git-all
